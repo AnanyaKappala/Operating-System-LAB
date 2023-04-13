@@ -1,0 +1,1 @@
+/* Find the longest palindrome number from a given string.*/
